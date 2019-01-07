@@ -19,7 +19,7 @@ Proteins are "the doers" in the human cell, executing many functions that togeth
 Images visualizing proteins in cells are commonly used for biomedical research, and these cells could hold the key for the next breakthrough in medicine. However, thanks to advances in high-throughput microscopy, these images are generated at a far greater pace than what can be manually evaluated. Therefore, the need is greater than ever for automating biomedical image analysis to accelerate the understanding of human cells and disease.
 
 
-> *[Nature Methods](Nature Methods) has indicated interest in considering a paper discussing the outcome and approaches of the challenge. The Human Protein Atlas team would like to invite top performing teams to join as co-authors in the writing of this paper.*
+> *[Nature Methods](https://www.nature.com/nmeth) has indicated interest in considering a paper discussing the outcome and approaches of the challenge. The Human Protein Atlas team would like to invite top performing teams to join as co-authors in the writing of this paper.*
 > 
 > *Top performing teams will also be eligible to compete for the special prize. Additional information for both the special prize and co-authoring for Nature Methods will become available through the Discussion posts once the main competition is complete.*
 
